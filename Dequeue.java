@@ -1,5 +1,3 @@
-package com.bl.Assignment;
-
 public class Dequeue {
 
 
