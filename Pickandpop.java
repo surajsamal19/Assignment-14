@@ -1,5 +1,3 @@
-package com.bl.Assignment;
-
 import java.util.EmptyStackException;
 
 public class Pickandpop {
